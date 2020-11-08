@@ -9,7 +9,7 @@
 - C# 
 - 💻 Practical experience on web platforms
 - Asp.net MVC
-- ReactJS (Redux, Redux-Saga, Reux-Persist, Rectotron, React-Router-DOM, History, Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, etc)
+- ReactJS (Redux, Redux-Saga, Redux-Persist, Reactotron, React-Router-DOM, History, Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, NextJS, etc)
 - NodeJS (Express, AdonisJS, Sequelize, TypeScript, TypeORM)
 - 💻 Practical mobile experience
 - React-Native (Hooks, Redux, Redux-Saga, Rectotron, Styled-Components, etc)
@@ -36,8 +36,8 @@
 - C#
 - 💻 Experiência prática em plataformas web
 - Asp.net MVC
-- ReactJS (Redux, Redux-Saga, Reux-Persist, Rectotron, React-Router-DOM, History,
-- Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, entre outros)
+- ReactJS (Redux, Redux-Saga, Redux-Persist, Reactotron, React-Router-DOM, History,
+- Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, NextJS, entre outros)
 - NodeJS (Express, AdonisJS, Sequelize, TypeScript, TypeORM)
 - 💻 Experiência prática em mobile: 
 - React-Native (Hooks, Redux, Redux-Saga, Rectotron, Styled-Components, entre outros)
