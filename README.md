@@ -3,6 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-comar-318aa436/)](https://www.linkedin.com/in/anderson-comar-318aa436/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andersoncomar@gmail.com)](mailto:andersoncomar@gmail.com)
 
+ <div align="center">
+ <a href="https://github.com/andersoncomar">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersoncomar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncomar&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+
 ### Goal oriented, collaborative and versatile professional with 21 years of experience in software development.
 - 🚀 Knowledges:
 - 💻 Practical experience on desktop platforms
@@ -56,6 +62,9 @@
 - Github
 - Gitlab
 - Docker
+
+
+ ![Snake animation](https://github.com/andersoncomar/andersoncomar/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **andersoncomar/andersoncomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
