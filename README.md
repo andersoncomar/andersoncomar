@@ -9,7 +9,7 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncomar&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-### Goal oriented, collaborative and versatile professional with 21 years of experience in software development.
+### Goal-oriented, collaborative and versatile professional with experience in software development.
 - 🚀 Knowledges:
 - 💻 Practical experience on desktop platforms
 - C# 
