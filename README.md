@@ -9,60 +9,21 @@
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersoncomar&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-### Goal-oriented, collaborative and versatile professional with experience in software development.
-- 🚀 Knowledges:
-- 💻 Practical experience on desktop platforms
-- C# 
-- 💻 Practical experience on web platforms
-- Asp.net MVC
-- ReactJS (Redux, Redux-Saga, Redux-Persist, Reactotron, React-Router-DOM, History, Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, NextJS, etc)
-- NodeJS (Express, AdonisJS, Sequelize, TypeScript, TypeORM)
-- 💻 Practical mobile experience
-- React-Native (Hooks, Redux, Redux-Saga, Rectotron, Styled-Components, etc)
-- 💻 Practical Experience with Database
-- SQL Server
-- Postgres
-- MongoDB
-- Redis
-- 💻 Development Environments
-- Visual Studio
-- VS Code
-- 🛠 Other tools
-- Insomnia
-- Yarn
-- Git
-- Github
-- Gitlab
-- Docker
+## Goal-oriented, collaborative, and versatile professional with over 23 years of experience in software development.
 
-### Objetivo orientado, colaborativo e versátil com 21 anos de experiência em desenvolvimento de software. 
+Practical experience on desktop platforms: C#
 
-- 🚀 Conhecimentos:
-- 💻 Experiência prática em plataformas desktop
-- C#
-- 💻 Experiência prática em plataformas web
-- Asp.net MVC
-- ReactJS (Redux, Redux-Saga, Redux-Persist, Reactotron, React-Router-DOM, History,
-- Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, NextJS, entre outros)
-- NodeJS (Express, AdonisJS, Sequelize, TypeScript, TypeORM)
-- 💻 Experiência prática em mobile: 
-- React-Native (Hooks, Redux, Redux-Saga, Rectotron, Styled-Components, entre outros)
-- 💻 Experiência prática com Banco de Dados 
-- SQL Server
-- Postgres
-- MongoDB
-- Redis
-- 💻 Ambiente Desenvolvimento
-- Visual Studio
-- VS Code
-- 🛠 Outras ferramentas
-- Insomnia
-- Yarn
-- Git
-- Github
-- Gitlab
-- Docker
+Practical experience on web platforms: 
+Asp.net MVC
+ReactJS (Redux, Redux-Saga, Redux-Persist, Reactotron, React-Router-DOM, History, Styled-Components, ESLint, Prettier, React-Hooks, TypeScript, Socket.io, NextJS, etc)
+NodeJS (Express, AdonisJS, Sequelize, TypeScript, TypeORM)
 
+Practical mobile experience: React-Native (Expo, Hooks, Redux, Redux-Saga, Rectotron, Styled-Components, etc).
+
+Practical Experience with Database: SQL Server, Postgresql, MongoDB, Redis.
+
+Development Environments: Visual Studio, VS Code
+Other tools: Insomnia, Postman, Yarn, Git, Github, Gitlab, Docker
 
  ![Snake animation](https://github.com/andersoncomar/andersoncomar/blob/output/github-contribution-grid-snake.svg)
 
